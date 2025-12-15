@@ -99,13 +99,6 @@ After all tasks complete, dispatch final code-reviewer:
 - Checks all plan requirements met
 - Validates overall architecture
 
-### 7. Complete Development
-
-After final review passes:
-- Announce: "I'm using the finishing-a-development-branch skill to complete this work."
-- **REQUIRED SUB-SKILL:** Use superpowers:finishing-a-development-branch
-- Follow that skill to verify tests, present options, execute choice
-
 ## Example Workflow
 
 ```
@@ -178,7 +171,6 @@ Done!
 **Required workflow skills:**
 - **writing-plans** - REQUIRED: Creates the plan that this skill executes
 - **requesting-code-review** - REQUIRED: Review after each task (see Step 3)
-- **finishing-a-development-branch** - REQUIRED: Complete development after all tasks (see Step 7)
 
 **Subagents must use:**
 - **test-driven-development** - Subagents follow TDD for each task

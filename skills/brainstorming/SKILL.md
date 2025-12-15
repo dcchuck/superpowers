@@ -35,14 +35,8 @@ Start by understanding the current project context, then ask questions one at a 
 ## After the Design
 
 **Documentation:**
-- Write the validated design to `docs/plans/YYYY-MM-DD-<topic>-design.md`
-- Use elements-of-style:writing-clearly-and-concisely skill if available
+- Write the validated design to `docs/design/YYYY-MM-DD-<topic>-design.md`
 - Commit the design document to git
-
-**Implementation (if continuing):**
-- Ask: "Ready to set up for implementation?"
-- Use superpowers:using-git-worktrees to create isolated workspace
-- Use superpowers:writing-plans to create detailed implementation plan
 
 ## Key Principles
 
@@ -52,3 +46,7 @@ Start by understanding the current project context, then ask questions one at a 
 - **Explore alternatives** - Always propose 2-3 approaches before settling
 - **Incremental validation** - Present design in sections, validate each
 - **Be flexible** - Go back and clarify when something doesn't make sense
+
+## Handoff
+
+Display the path to the design file and put the full path to the file on the user's clipboard.
